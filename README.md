@@ -38,7 +38,7 @@ This osTicket Lifecycle tutorial begins with our created user "Karen Karen" goin
 <img src="https://i.imgur.com/eRd4rVk.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we see the user "Karen Karen" go to the "Open a new Ticket" page to create a "Business Critical Outage" ticket with Issue Summary of "entire mobile online banking down" with note "customers getting 404 error" *As a reminder these tickets are mock real-world ticket examples created by our own created "user" in order to simulate possible real-world ticketing system experiences. 
+Next, we see the user "Karen Karen" go to the "Open a new Ticket" page to create a "Business Critical Outage" ticket with Issue Summary of "entire mobile online banking down" with note "customers getting 404 error" *As a reminder this ticket lifecycle example is merely a mock real-world ticket example that was created by our own created "user" named "Karen Karen" in order to simulate a possible real-world ticketing system experience. 
 </p>
 <br /># ticket-lifecycle
 
@@ -83,17 +83,11 @@ Next, the above image shows how the ticket has been transferred to our previousl
 <br /># ticket-lifecycle
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FbLsRtl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, the above image shows a note made by agent "Jane" in the ticket communication log that states fictitious "Jerry" from the system administration department has "corrected the mobile online banking issue" and ticket status is now "resolved".
 </p>
 <br /># ticket-lifecycle
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /># ticket-lifecycle
+
