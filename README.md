@@ -51,6 +51,22 @@ Next, working from our osTicket "Jane's" agent panel we see the ticket created b
 <br /># ticket-lifecycle
 
 <p>
+<img src="https://i.imgur.com/S0lcx6q.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, the above image shows how the ticket status has been changed from the default "normal" status to the more appropriate ticket priority status of "Emergency" with the added note of "business impacting event" as having entire mobile online banking system down is a "Business Critical Outage" that impacts business.
+</p>
+<br /># ticket-lifecycle
+
+<p>
+<img src="https://i.imgur.com/L7agzix.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, the above image shows how the ticket has been assigned to agent "Jane".
+</p>
+<br /># ticket-lifecycle
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
