@@ -43,6 +43,22 @@ Next, we see the user "Karen Karen" go to the "Open a new Ticket" page to create
 <br /># ticket-lifecycle
 
 <p>
+<img src="https://i.imgur.com/g0lbBsf.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, working from our osTicket "Jane's" agent panel we see the ticket created by our user "Karen "Karen" with the subject "entire mobile online banking down" with default priority status of "normal".  
+</p>
+<br /># ticket-lifecycle
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /># ticket-lifecycle
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
